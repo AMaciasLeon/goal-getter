@@ -1,0 +1,7 @@
+{
+  "name": "n-pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
