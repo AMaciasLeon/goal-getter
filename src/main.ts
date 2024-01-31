@@ -1,7 +1,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import { createRouter, createWebHistory } from 'vue-router';
+import HomePage from './views/HomePage.vue'
+import RegisterPage from './views/RegisterPage.vue'
 import router from './router';
-
 import { IonicVue } from '@ionic/vue';
 
 /* Core CSS required for Ionic components to work properly */
